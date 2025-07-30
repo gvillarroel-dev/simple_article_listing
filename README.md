@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="#">
+    <a href="https://gvillarroel-dev.github.io/simple_article_listing/">
       Demo
     </a>
     <span> | </span>
@@ -58,7 +58,6 @@ The challenge was straightforward: make a responsive grid of articles with flexb
 - CSS3 flexbox layouts
 - Responsive design
 - Custom CSS properties
-- Mobile-first approach
 
 ## Features
 
@@ -77,5 +76,5 @@ Built for a [DevChallenges](https://devchallenges.io/challenges-dashboard) chall
 
 ## Author
 
-- Website [Simple_Articles](#)
+- Website [Simple_Articles](https://gvillarroel-dev.github.io/simple_article_listing/)
 - GitHub [@gvillarroel-dev](https://github.com/gvillarroel-dev)
